@@ -1,0 +1,8 @@
+C:\Users\Andy\documents\visual studio 2012\Projects\funtime\funtime\bin\Debug\funtime.exe.config
+C:\Users\Andy\documents\visual studio 2012\Projects\funtime\funtime\obj\Debug\funtime.exe
+C:\Users\Andy\documents\visual studio 2012\Projects\funtime\funtime\obj\Debug\funtime.pdb
+C:\Users\Andy\documents\visual studio 2012\Projects\funtime\funtime\bin\Debug\funtime.exe
+C:\Users\Andy\documents\visual studio 2012\Projects\funtime\funtime\bin\Debug\funtime.pdb
+C:\Users\Andy\documents\visual studio 2012\Projects\funtime\funtime\obj\Debug\funtime.Form1.resources
+C:\Users\Andy\documents\visual studio 2012\Projects\funtime\funtime\obj\Debug\funtime.Properties.Resources.resources
+C:\Users\Andy\documents\visual studio 2012\Projects\funtime\funtime\obj\Debug\funtime.csproj.GenerateResource.Cache

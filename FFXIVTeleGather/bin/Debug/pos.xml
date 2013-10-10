@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<World>
+	<Zone ID="test1">
+		<Pos name="1" x="-52.17073" y="12.20433" z="0.2" rot="-1.524823" />
+		<Pos name="1" x="-66.71861" y="11.44632" z="0.2" rot="-1.581371" />
+		<Pos name="1" x="-60.56561" y="6.178545" z="0.2" rot="3.08913" />
+		<Pos name="1" x="-51.23745" y="5.424451" z="0.2" rot="2.944621" />
+	</Zone>
+	<Zone ID="Central Shroud Gather 5">
+		<Pos name="1" x="-120.6272" y="-75.26682" z="-2.586746" rot="-0.9723997" />
+		<Pos name="2" x="-125.2571" y="-133.9417" z="5.213707" rot="-2.109659" />
+		<Pos name="3" x="-128.875" y="-145.9525" z="9.115412" rot="-2.851651" />
+		<Pos name="4" x="-130.9928" y="-82.42303" z="-0.8310068" rot="-2.736482" />
+		<Pos name="5" x="-162.2299" y="-52.70517" z="1.209897" rot="-0.08707285" />
+		<Pos name="6" x="-114.8467" y="-88.44738" z="-2.125775" rot="2.845757" />
+		<Pos name="7" x="-98.20671" y="-127.4114" z="2.28621" rot="-2.293888" />
+		<Pos name="8" x="-153.9871" y="-131.3438" z="3.80526" rot="-1.866632" />
+		<Pos name="9" x="-182.4006" y="-91.45876" z="2.500953" rot="-1.803797" />
+		<Pos name="10" x="-177.6543" y="-68.31113" z="1.886428" rot="-0.3254237" />
+		<Pos name="11" x="-105.8074" y="-121.8491" z="1.840838" rot="1.911393" />
+		<Pos name="12" x="-117.9785" y="-173.4116" z="9.061005" rot="-2.955643" />
+		<Pos name="13" x="-164.1398" y="-51.49508" z="1.380313" rot="-0.2538853" />
+	</Zone>
+	<Zone ID="Central Shroud Gather 4">
+		<Pos name="1" x="-26.28396" y="-59.12346" z="-6.444943" rot="1.051585" />
+		<Pos name="2" x="-10.2481" y="-90.13136" z="-5.548347" rot="2.681024" />
+		<Pos name="3" x="-81.45155" y="-82.81502" z="-2.670029" rot="-1.945496" />
+		<Pos name="4" x="-116.7178" y="-31.28466" z="-2.39405" rot="-0.4940777" />
+		<Pos name="10" x="-117.1284" y="-26.44924" z="-2.711663" rot="1.250785" />
+		<Pos name="11" x="-37.82703" y="-53.18263" z="-5.195355" rot="-0.3660848" />
+	</Zone>
+	<Zone ID="Central Shroud Gather 3">
+		<Pos name="1" x="61.32023" y="75.09862" z="-7.73323" rot="-2.494351" />
+		<Pos name="2" x="-1.690134" y="91.07383" z="-6.41887" rot="-1.04085" />
+		<Pos name="3" x="17.64823" y="118.5997" z="-8.839319" rot="0.379159" />
+		<Pos name="4" x="98.60841" y="158.6225" z="-8.042876" rot="1.302795" />
+		<Pos name="5" x="68.87591" y="98.93986" z="-6.633531" rot="-2.175997" />
+		<Pos name="6" x="98.19827" y="143.8715" z="-6.956039" rot="1.39703" />
+		<Pos name="7" x="17.69892" y="130.5689" z="-6.593472" rot="-0.3351021" />
+		<Pos name="8" x="-19.61129" y="79.51028" z="-2.426543" rot="-1.612715" />
+		<Pos name="9" x="69.81421" y="99.8018" z="-6.665878" rot="0.4770336" />
+		<Pos name="10" x="102.4278" y="145.6265" z="-7.048748" rot="-2.381572" />
+	</Zone>
+	<Zone ID="Central Shroud Gather 2">
+		<Pos name="1" x="249.9419" y="-2.955605" z="-9.744323" rot="-2.553521" />
+		<Pos name="2" x="195.6934" y="-32.39101" z="-8.500012" rot="0.1105504" />
+		<Pos name="3" x="228.7603" y="-61.70729" z="-8.081915" rot="2.42486" />
+		<Pos name="4" x="280.2445" y="-72.23907" z="-8.308897" rot="2.094738" />
+		<Pos name="5" x="249.3559" y="-5.800733" z="-10.01817" rot="-0.7438312" />
+		<Pos name="6" x="204.845" y="-26.45173" z="-9.012703" rot="0.04633429" />
+		<Pos name="7" x="224.7592" y="-71.68986" z="-6.282505" rot="1.406271" />
+		<Pos name="8" x="282.1183" y="-90.82378" z="-6.58885" rot="2.567912" />
+		<Pos name="9" x="264.7076" y="-28.21265" z="-8.660937" rot="-1.993384" />
+		<Pos name="10" x="211.0245" y="-70.53263" z="-6.621084" rot="-2.963048" />
+		<Pos name="11" x="277.8504" y="-98.94571" z="-7.346513" rot="2.270847" />
+		<Pos name="12" x="274.2754" y="-42.67811" z="-7.558678" rot="0.4292445" />
+		<Pos name="13" x="206.0025" y="-47.4138" z="-8.062122" rot="-0.682879" />
+	</Zone>
+	<Zone ID="North Shroud Gather">
+		<Pos name="1" x="238.2024" y="254.6276" z="-24.38608" rot="3.124166" />
+		<Pos name="2" x="249.599" y="295.4705" z="-22.11732" rot="0.7872794" />
+		<Pos name="3" x="210.1761" y="316.3296" z="-29.8353" rot="-0.3652147" />
+		<Pos name="4" x="257.2145" y="247.1467" z="-21.35225" rot="3.032522" />
+		<Pos name="5" x="247.3473" y="285.5578" z="-22.31523" rot="3.069981" />
+		<Pos name="6" x="255.5795" y="301.8199" z="-19.23771" rot="-0.1383834" />
+		<Pos name="7" x="283.3058" y="310.2847" z="-13.20674" rot="1.853386" />
+		<Pos name="8" x="235.7016" y="266.7145" z="-23.59698" rot="-2.337599" />
+		<Pos name="9" x="210.3383" y="317.1143" z="-29.87885" rot="-0.2452025" />
+		<Pos name="10" x="221.0077" y="317.6472" z="-28.78046" rot="1.36177" />
+		<Pos name="11" x="295.4726" y="310.9869" z="-10.57492" rot="0.385777" />
+		<Pos name="12" x="280.347" y="317.2687" z="-10.76106" rot="-0.1032076" />
+		<Pos name="13" x="216.6738" y="319.26" z="-29.49425" rot="0.3135633" />
+	</Zone>
+	<Zone ID="Outer La Noscea">
+		<Pos name="Upper La Noscea" x="-328.6339" y="-91.19099" z="52.25994" rot="0" />
+		<Pos name="Town" x="-119.2938" y="-216.0547" z="64.73945" rot="0" />
+		<Pos name="Middle Passage" x="67.78645" y="-252.061" z="66.57932" rot="0" />
+		<Pos name="E Upper La Noscea" x="242.5281" y="-251.8784" z="53.80478" rot="0" />
+		<Pos name="1" x="54.08786" y="-215.0145" z="4.956425" rot="-2.258911" />
+		<Pos name="1" x="54.08786" y="-215.0145" z="4.956425" rot="-1.204977" />
+		<Pos name="1" x="50.30232" y="-207.9252" z="4.434846" rot="-1.204977" />
+		<Pos name="1" x="40.95753" y="-199.2555" z="4.183198" rot="-1.204977" />
+		<Pos name="1" x="29.43048" y="-194.84" z="3.278427" rot="-1.204977" />
+		<Pos name="1" x="18.64222" y="-190.7074" z="2.180317" rot="-1.204977" />
+		<Pos name="1" x="4.585704" y="-185.3228" z="1.196228" rot="-1.204977" />
+		<Pos name="1" x="-4.440913" y="-187.479" z="1.23886" rot="-2.341473" />
+	</Zone>
+	<Zone ID="Upper La Noscea">
+		<Pos name="Western La Noscea" x="-476.249" y="282.4123" z="1.785829" rot="0" />
+		<Pos name="Minitown" x="-340.7489" y="139.7784" z="-2.200896" rot="0" />
+		<Pos name="NW" x="-582.0675" y="-16.27653" z="-2.131425" rot="0" />
+		<Pos name="Outer La Noscea" x="-344" y="-17.62151" z="48.21882" rot="0" />
+		<Pos name="E Outer La Noscea" x="289.4022" y="-197.7399" z="41.17086" rot="0" />
+		<Pos name="Town" x="435.4291" y="93.16724" z="4.066246" rot="0" />
+		<Pos name="E Minitown" x="224.34" y="258.7671" z="-0.9591978" rot="0" />
+		<Pos name="Eastern La Noscea" x="713.7802" y="208.5411" z="1.121772" rot="0" />
+	</Zone>
+	<Zone ID="Lower La Noscea">
+		<Pos name="W Eastern La Noscea" x="570.9731" y="-518.3331" z="96.29327" rot="0" />
+		<Pos name="E Eastern La Noscea" x="694.6702" y="-385.5433" z="79.752" rot="0" />
+		<Pos name="Middle La Noscea" x="231.2812" y="-341.4763" z="74.38878" rot="0" />
+		<Pos name="Minitown" x="537.9757" y="-70.35069" z="89" rot="0" />
+		<Pos name="Valley" x="276.3335" y="22.93919" z="45.16798" rot="0" />
+		<Pos name="Limsa" x="-49.38439" y="116.6123" z="75.48092" rot="0" />
+		<Pos name="Bridge" x="43.46928" y="388.6673" z="71.30162" rot="0" />
+		<Pos name="Town" x="154.7816" y="667.8579" z="14.09585" rot="0" />
+		<Pos name="S Town" x="135.4262" y="935.7781" z="58.72206" rot="0" />
+		<Pos name="S Dock" x="-42.84875" y="850.8345" z="8.921356" rot="0" />
+		<Pos name="W" x="-132.0165" y="712.675" z="1.831902" rot="0" />
+	</Zone>
+	<Zone ID="Middle La Noscea">
+		<Pos name="Lower La Noscea" x="198.2551" y="285.1288" z="65.25047" rot="0" />
+		<Pos name="Limsa" x="-41.26894" y="152.4414" z="35.83541" rot="0" />
+		<Pos name="Middle" x="22.01727" y="-81.13279" z="50.61128" rot="0" />
+		<Pos name="Town" x="220.4562" y="-256.3921" z="113.1" rot="0" />
+		<Pos name="Cliff" x="-149.5226" y="-339.8005" z="38.37995" rot="0" />
+		<Pos name="North" x="-271.2266" y="-450.0049" z="21.55635" rot="0" />
+		<Pos name="Eastern La Noscea" x="-164.64" y="-731.0115" z="35.55244" rot="0" />
+		<Pos name="Western La Noscea" x="-376.0439" y="-599.5106" z="33.28343" rot="0" />
+	</Zone>
+	<Zone ID="Eastern La Noscea">
+		<Pos name="Upper La Noscea" x="80.42433" y="-118.0269" z="80.25371" rot="0" />
+		<Pos name="NW Town" x="-16.87633" y="7.012952" z="70.59925" rot="0" />
+		<Pos name="NW Dock" x="17.73758" y="238.2359" z="39.15393" rot="0" />
+		<Pos name="Brayflox" x="-263.445" y="181.3629" z="59.40911" rot="0" />
+		<Pos name="W Valley" x="-213.7147" y="419.4779" z="44.33449" rot="0" />
+		<Pos name="Lower La Noscea" x="-130.0771" y="741.234" z="69.65199" rot="0" />
+		<Pos name="E Dock" x="346.6826" y="100.6374" z="34.12237" rot="0" />
+		<Pos name="Beach" x="538.5545" y="95.84962" z="15.57767" rot="0" />
+		<Pos name="Town" x="483.7875" y="467.5277" z="17.39324" rot="0" />
+		<Pos name="SE" x="521.1912" y="622.3628" z="8.662338" rot="0" />
+		<Pos name="E Lower La Noscea" x="246.5881" y="832.6285" z="56.20853" rot="0" />
+	</Zone>
+	<Zone ID="Western La Noscea">
+		<Pos name="Middle La Noscea" x="806.3434" y="378.3714" z="50.31267" rot="0" />
+		<Pos name="Minitown" x="652.3549" y="507.7453" z="9.345297" rot="0" />
+		<Pos name="N Minitown" x="615.5948" y="370.9872" z="28.02018" rot="0" />
+		<Pos name="Valley" x="438.1475" y="246.4409" z="-1.309365" rot="0" />
+		<Pos name="Town" x="263.4987" y="223.6305" z="-22.75" rot="0" />
+		<Pos name="N Town" x="304.9948" y="94.41624" z="-0.5155421" rot="0" />
+		<Pos name="NW Town" x="88.16679" y="80.33112" z="-18.02727" rot="0" />
+		<Pos name="Upper La Noscea" x="408.8206" y="-9.619812" z="29.64744" rot="0" />
+	</Zone>
+	<Zone ID="Coerthas">
+		<Pos name="North Shroud" x="3.678556" y="564.8732" z="187.1595" rot="0" />
+		<Pos name="SE Town" x="188.836" y="351.6759" z="222.5813" rot="0" />
+		<Pos name="NE Town" x="228.6822" y="-235.6303" z="313.1463" rot="0" />
+		<Pos name="NE Ruins" x="272.9617" y="-536.3309" z="352.9741" rot="0" />
+		<Pos name="N between towns" x="-125.8084" y="-196.9365" z="296.3161" rot="0" />
+		<Pos name="NW Town" x="-444.5909" y="-234.1295" z="211" rot="0" />
+		<Pos name="NW Fate" x="240.6407" y="-455.2563" z="321.8076" rot="0" />
+	</Zone>
+	<Zone ID="North Shroud">
+		<Pos name="Gridania" x="448.8195" y="197.3676" z="-1.673166" rot="0" />
+		<Pos name="SMini-town" x="284.0483" y="356.5438" z="-5.501447" rot="0" />
+		<Pos name="NMinitown" x="319.8816" y="-70.60214" z="-6.334689" rot="0" />
+		<Pos name="Mid-east" x="160.1487" y="206.297" z="-27.71563" rot="0" />
+		<Pos name="Town" x="-40.77642" y="230.048" z="-39.25636" rot="0" />
+		<Pos name="S Town" x="-59.82194" y="356.2129" z="-42.37621" rot="0" />
+		<Pos name="Central Shroud" x="17.23508" y="530.3525" z="-55.03861" rot="0" />
+		<Pos name="W Town" x="-226.202" y="256.2668" z="-28.4015" rot="0" />
+		<Pos name="SW" x="-246.8631" y="391.9032" z="-31.53931" rot="0" />
+		<Pos name="Coerthas" x="-359.6294" y="187.0355" z="-6.462779" rot="0" />
+		<Pos name="Spire" x="-290.096" y="204.6144" z="-15.5584" rot="0" />
+	</Zone>
+	<Zone ID="Central Shroud">
+		<Pos name="Gridania" x="129.1578" y="-302.7935" z="24.85307" rot="0" />
+		<Pos name="Minitown" x="94.52736" y="-95.77551" z="-8" rot="0" />
+		<Pos name="Town" x="36.48429" y="61.83953" z="-6.001854" rot="0" />
+		<Pos name="S Town" x="61.13841" y="191.8488" z="-20.13436" rot="0" />
+		<Pos name="Tam-Tara" x="-99.93287" y="315.378" z="-22.2395" rot="0" />
+		<Pos name="S Tam-Tara" x="-44.26802" y="452.8458" z="-36.91956" rot="0" />
+		<Pos name="N S Shroud" x="191.3881" y="395.4715" z="-32.80992" rot="0" />
+		<Pos name="South Shroud" x="160.7247" y="547.362" z="-23.70348" rot="0" />
+		<Pos name="W Mini-town" x="-113.5602" y="-65.74973" z="-3.853464" rot="0" />
+		<Pos name="Dungeon" x="318.9543" y="127.3496" z="7.699007" rot="0" />
+		<Pos name="East" x="505.19" y="-24.85756" z="42.88356" rot="0" />
+		<Pos name="East Shroud" x="384.0879" y="-182.99" z="-3.225752" rot="0" />
+		<Pos name="North Shroud" x="-500.5679" y="-333.71" z="72.7636" rot="0" />
+		<Pos name="W Gridania" x="-304.0699" y="-284.092" z="63.44862" rot="0" />
+		<Pos name="W" x="-327.1034" y="-74.69405" z="61.22215" rot="0" />
+		<Pos name="Awk Area" x="-270.9791" y="94.39753" z="19.12405" rot="0" />
+		<Pos name="Bot1" x="82.83022" y="-132.804" z="-4.432292" rot="0" />
+	</Zone>
+	<Zone ID="Central Shroud Gather">
+		<Pos name="1" x="58.02906" y="-228.3949" z="7.007033" rot="0" />
+		<Pos name="2" x="116.2324" y="-204.5051" z="8.613543" rot="0" />
+		<Pos name="3" x="108.502" y="-207.433" z="8.414492" rot="0" />
+		<Pos name="4" x="85.52539" y="-155.8876" z="1.921985" rot="0" />
+		<Pos name="5" x="45.37351" y="-206.0066" z="4.514546" rot="0" />
+		<Pos name="6" x="15.05331" y="-174.6627" z="3.459209" rot="0" />
+		<Pos name="7" x="83.45021" y="-132.4662" z="-4.456326" rot="0" />
+		<Pos name="8" x="112.0488" y="-192.3085" z="3.182781" rot="0" />
+		<Pos name="9" x="45.40604" y="-205.6528" z="4.504014" rot="0" />
+		<Pos name="10" x="41.50496" y="-172.4839" z="4.282318" rot="0" />
+		<Pos name="11" x="83.63583" y="-133.1004" z="-4.337418" rot="0" />
+		<Pos name="12" x="71.78638" y="-188.7065" z="4.842662" rot="0" />
+		<Pos name="13" x="100.2114" y="-136.0083" z="-2.745397" rot="0" />
+	</Zone>
+	<Zone ID="East Shroud">
+		<Pos name="Central Shroud" x="-515.7882" y="274.3175" z="18.67585" rot="0" />
+		<Pos name="Gridania" x="-575.3225" y="75.48383" z="8.276274" rot="0" />
+		<Pos name="N Town" x="-234.9635" y="78.84129" z="6.116172" rot="0" />
+		<Pos name="Town" x="-187.2031" y="294.3545" z="4.437704" rot="0" />
+		<Pos name="South Shroud" x="-165.769" y="450.015" z="5.923649" rot="0" />
+		<Pos name="SE" x="8.298966" y="417.3604" z="6.999384" rot="0" />
+		<Pos name="Minitown" x="25.02987" y="210.8072" z="-3.695049" rot="0" />
+	</Zone>
+	<Zone ID="South Shroud">
+		<Pos name="Quarrymill" x="176.6159" y="-63.89586" z="8.78637" rot="0" />
+		<Pos name="SE Quarrymill" x="292.3121" y="-37.9462" z="8.483862" rot="0" />
+		<Pos name="Fast bosspit" x="-97.41937" y="51.4348" z="1.944523" rot="0" />
+		<Pos name="S Minitown" x="-210.0723" y="41.40389" z="7.843804" rot="0" />
+		<Pos name="Tunnel" x="53.8358" y="-30.12786" z="12.73302" rot="0" />
+		<Pos name="Castle" x="60.69581" y="-185.4187" z="22.46397" rot="0" />
+		<Pos name="Mini town" x="-175.7631" y="-73.73006" z="9.469177" rot="0" />
+		<Pos name="DoubleFate" x="373.0825" y="24.32437" z="0.8967323" rot="0" />
+		<Pos name="East east" x="421.5502" y="-6.754431" z="-0.1993408" rot="0" />
+		<Pos name="SE Tranquil" x="-72.16187" y="415.2064" z="-0.4226314" rot="0" />
+		<Pos name="N Tranquil" x="-211.0622" y="280.1293" z="1.168789" rot="0" />
+		<Pos name="East Thanalan" x="-283.0137" y="692.5495" z="-0.1073166" rot="0" />
+		<Pos name="Central Shroud" x="-364.2507" y="-240.5121" z="29.19917" rot="0" />
+		<Pos name="WhiteMage" x="-137.8462" y="278.3513" z="8.280454" rot="0" />
+		<Pos name="East Shroud" x="274.8105" y="-258.9015" z="11.11724" rot="0" />
+	</Zone>
+	<Zone ID="South Thanalan">
+		<Pos name="Central Thanalan" x="-424.7518" y="-422.8765" z="12.86167" rot="0" />
+		<Pos name="Town" x="-159.4706" y="-413.0256" z="28.10362" rot="0" />
+		<Pos name="South Town" x="-138.7276" y="-252.2536" z="13.5726" rot="0" />
+		<Pos name="NE Town" x="-35.70362" y="-498.0464" z="5.009391" rot="0" />
+		<Pos name="Qarn" x="137.4687" y="-474.6494" z="11.02982" rot="0" />
+		<Pos name="North" x="-40.81076" y="-669.5543" z="2.322155" rot="0" />
+		<Pos name="SE Town" x="-36.16401" y="-279.3578" z="15.59477" rot="0" />
+		<Pos name="Bridge Valley" x="-175.33" y="-167.8027" z="4.467515" rot="0" />
+		<Pos name="SW Town" x="-276.3732" y="-310.8086" z="21.92974" rot="0" />
+	</Zone>
+	<Zone ID="Eastern Thanalan">
+		<Pos name="Camp Drybone" x="-384.5995" y="136.8984" z="-59" rot="0" />
+		<Pos name="Southwest" x="-463.5489" y="270.8546" z="-28.97667" rot="0" />
+		<Pos name="Central Thanalan" x="-560.5442" y="332.8142" z="-19.78021" rot="0" />
+		<Pos name="South Thanalan" x="-173.5654" y="485.7705" z="-45.51646" rot="0" />
+		<Pos name="Southeast Valley" x="-121.2735" y="336.7423" z="-29.05421" rot="0" />
+		<Pos name="Highbridge" x="-37.66458" y="-16.6925" z="-10.01511" rot="0" />
+		<Pos name="South Shroud" x="369.6117" y="-294.6711" z="31.87847" rot="0" />
+	</Zone>
+	<Zone ID="Western Thanalan">
+		<Pos name="N Vesper Bay" x="-332.0132" y="-713.2891" z="16.06488" rot="0" />
+		<Pos name="Vesper Bay" x="-439.3965" y="-343.8671" z="23.66994" rot="0" />
+		<Pos name="Swamp" x="-235.3729" y="-297.017" z="16.05557" rot="0" />
+		<Pos name="Horizon's Edge" x="62.66482" y="-228.0209" z="45.34442" rot="0" />
+		<Pos name="N River" x="90.57299" y="-28.58958" z="55.93348" rot="0" />
+		<Pos name="First Town" x="225.2237" y="135.8215" z="52.03812" rot="0" />
+		<Pos name="Middle of nowhere" x="67.94198" y="234.0147" z="51.79043" rot="0" />
+		<Pos name="Silver Bazaar" x="-251.243" y="403.5769" z="33.24248" rot="0" />
+		<Pos name="Ul'dah" x="463.6035" y="158.5659" z="96.37342" rot="0" />
+		<Pos name="Central Thanalan" x="260.7507" y="-2.789603" z="52.67562" rot="0" />
+	</Zone>
+	<Zone ID="Central Thanalan">
+		<Pos name="Town" x="-16.58149" y="-160.9608" z="-1.875156" rot="0" />
+		<Pos name="East Thanalan" x="446.9019" y="-173.756" z="-17.99996" rot="0" />
+		<Pos name="East Pool" x="353.632" y="-106.5233" z="-19.71835" rot="0" />
+		<Pos name="East Cliff" x="131.8214" y="-83.09478" z="19.62012" rot="0" />
+		<Pos name="South of Town" x="-51.26339" y="-31.15193" z="-11.29026" rot="0" />
+		<Pos name="Bridge" x="-61.5799" y="154.5149" z="-3.658218" rot="0" />
+		<Pos name="Ul'dah Nald" x="-113.752" y="331.0824" z="18.12463" rot="0" />
+		<Pos name="Ul'dah Thal" x="36.80056" y="576.8431" z="15.84636" rot="0" />
+		<Pos name="South Thanalan" x="221.8955" y="666.1639" z="2.753296" rot="0" />
+		<Pos name="North Thanalan" x="-26.72261" y="-489.9485" z="33" rot="0" />
+		<Pos name="West Thanalan" x="-402.3216" y="92.48494" z="-0.2449571" rot="0" />
+		<Pos name="NW Town" x="-122.8077" y="-293.9146" z="2.15784" rot="0" />
+		<Pos name="SW Town" x="-166.7465" y="-129.752" z="18.17896" rot="0" />
+	</Zone>
+</World>

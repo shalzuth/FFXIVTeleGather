@@ -1,0 +1,8 @@
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\FFXIVTeleGather\FFXIVTeleGather\obj\Debug\FFXIVTeleGather.Form1.resources
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\FFXIVTeleGather\FFXIVTeleGather\obj\Debug\FFXIVTeleGather.Properties.Resources.resources
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\FFXIVTeleGather\FFXIVTeleGather\obj\Debug\FFXIVTeleGather.csproj.GenerateResource.Cache
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\FFXIVTeleGather\FFXIVTeleGather\bin\Debug\FFXIVTeleGather.exe.config
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\FFXIVTeleGather\FFXIVTeleGather\bin\Debug\FFXIVTeleGather.exe
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\FFXIVTeleGather\FFXIVTeleGather\bin\Debug\FFXIVTeleGather.pdb
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\FFXIVTeleGather\FFXIVTeleGather\obj\Debug\FFXIVTeleGather.exe
+C:\Users\Andy\Documents\Visual Studio 2012\Projects\FFXIVTeleGather\FFXIVTeleGather\obj\Debug\FFXIVTeleGather.pdb
